@@ -1,0 +1,1395 @@
+{
+  "vaultName": "RESUMOS QUARTO SEMESTRE",
+  "lastExport": 1747267589274,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Aplicações/Aplicações Científicas.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Aplicações/Aplicações de Negócios.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Aplicações/Aplicações em Inteligência Artificial.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Aplicações/Aplicações em Sistemas Operacionais.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Aplicações/Aplicações WEB.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Aplicações/Áreas de Aplicação.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Avaliação de uma Linguagem.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Características Associadas a Critérios.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Confiabilidade.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Critérios de Avaliação.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Custo.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Expressividade.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Facilidade de Escrita.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Legibilidade.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Ortogonalidade.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Projeto da Sintaxe.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Simplicidade Geral.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Suporte a Abstração.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Tipo de Dados.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Tratamentos de Exceção.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Utilização de Apelidos.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Verificação de Tipos.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Implementação/Compilação.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Implementação/Interpretação.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Implementação/Métodos de Implementação de uma Linguagem.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Implementação/Sistemas Híbridos.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Conceitos Preliminares.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Escopo/Escopo Dinâmico.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Escopo/Escopo Estático.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Escopo/Escopos.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Escopo/Local.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Escopo/Não Local.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Escopo/Visível.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Nomes/Nomes.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Nomes/Palavras Especiais.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Nomes/Palavras Reservadas.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Variaveis/Endereço.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Variaveis/Escopo.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Variaveis/Nome.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Variaveis/Tempo de Vida.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Variaveis/Tipo.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Variaveis/Valor.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Variaveis/Variáveis.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Vinculação/Vinculação.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Vinculação/Vinculação de Armazenamento.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Vinculação/Vinculação de Tipos.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Nomes, variáveis, vinculações e escopos.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Python/Contexto/Contextualização.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Python/Contexto/Memória.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Python/Garbage/Garbage Collector.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Python/Memória e Objetos/Heap.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Python/Memória e Objetos/Objetos.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Python/Memória e Objetos/Stack.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Python/Memória e Objetos/Stack, Heap e Objetos.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Python/Python - Memória e Garbage Collector.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/BNF/BNF.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/BNF/Linguagem.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/BNF/Metalinguagem.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/Definição/Definição e História.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/Definição/Semântica.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/Definição/Sintaxe.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/EBNF/Adição de Partes Opcionais.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/EBNF/EBNF.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/EBNF/Repetições de Termos.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/EBNF/Uso de Múltiplas Opções.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/Parse Trees/Ambiguidade.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/Parse Trees/Árvore de Análise Sintática.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/Parse Trees/Associatividade de Operadores.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/Parse Trees/Precedência de Operadores.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/Sintaxe.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Matrizes/Fatiamento.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Matrizes/Inicialização.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Matrizes/Matriz Estática.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Matrizes/Matriz Heap-Dinâmica.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Matrizes/Matriz Heap-Dinâmica Fixa.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Matrizes/Matriz Pilha-Dinâmica.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Matrizes/Matriz Pilha-Dinâmica Fixa.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Matrizes/Matrizes.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Matrizes/Matrizes Heterogêneas.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Matrizes/Tipos Compostos.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Matrizes/Tipos de Matrizes.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Ponteiros/Ponteiro Solto.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Ponteiros/Ponteiros e Variáveis de Referência.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Ponteiros/Problemas com Ponteiros.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Ponteiros/Variáveis de Referência.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Ponteiros/Variáveis Dinâmicas no Monte Perdidas.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Primitivos/Booleanos.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Primitivos/Caracteres.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Primitivos/Tipos Numéricos.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Primitivos/Tipos Primitivos.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Strings/Cadeia de Caracteres.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Strings/Descritor.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Strings/Tamanho de Strings.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Strings/Tamanho Dinâmico Ilimitado.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Strings/Tamanho Dinâmico Limitado.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Strings/Tamanho Estático.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Registros.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Tipos de Dados.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Verificação de Tipos.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/AV1.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Java/Implementação/Método de Implementação.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Java/Memória/Memória.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Java/Orientação a Objetos/Orientação a Objetos.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Java/Sintaxe/Sintaxe.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Java/Tipos/Tipos.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Java/Linguagem Java.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/LISP/Noções de LISP.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Programação Funcional/Funções Matemáticas/Funções Matemáticas.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Programação Funcional/Programação Funcional/Programação Funcional.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Programação Funcional/Paradigma de Programação Funcional.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Prolog/Prolog.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Scheme/Scheme.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Subprogramas/Contextualização/Contextualização.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Subprogramas/Fundamentos/Definições Básicas.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Subprogramas/Fundamentos/Fundamentos de Subprogramas.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Subprogramas/Fundamentos/Parâmetros.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Subprogramas/Fundamentos/Procedimentos e Funções.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Subprogramas/Passagem de Parâmetros/Passagem de Parâmetros.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Subprogramas/Questões de Projeto/Questões de Projeto para Subprogramas.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Subprogramas/Variáveis/Variáveis Definidas em Subprogramas.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Subprogramas/Subprogramas e Abstração de Processos.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Abstração/Abstração.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Abstração/Abstração de Dados.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Abstração/Abstração de Processos.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Classes/Atributo.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Classes/Classe.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Classes/Classes e Objetos.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Classes/Método.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Classes/Objeto.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Herança/Classes Abstratas.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Herança/Herança.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Herança/Herança Múltipla.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Herança/Subclasse.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Herança/Superclasse.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Polimorfismo/Polimorfismo.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Tipos Abstratos de Dados e Orientação a Objetos.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/AV2.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV3/AV3.md",
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/Assuntos - Fundamentos de Linguagens de Programação.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Aplicações/Aplicações Científicas.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 17,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/aplicações/aplicações-científicas.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Aplicações/Aplicações de Negócios.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 6,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/aplicações/aplicações-de-negócios.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Aplicações/Aplicações em Inteligência Artificial.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 13,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/aplicações/aplicações-em-inteligência-artificial.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Aplicações/Aplicações em Sistemas Operacionais.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 8,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/aplicações/aplicações-em-sistemas-operacionais.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Aplicações/Aplicações WEB.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 36,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/aplicações/aplicações-web.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Aplicações/Áreas de Aplicação.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 917,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/aplicações/áreas-de-aplicação.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Avaliação de uma Linguagem.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 110,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/avaliação/avaliação-de-uma-linguagem.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Características Associadas a Critérios.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 2176,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/avaliação/características-associadas-a-critérios.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Confiabilidade.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/avaliação/confiabilidade.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Critérios de Avaliação.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 855,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/avaliação/critérios-de-avaliação.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Custo.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/avaliação/custo.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Expressividade.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/avaliação/expressividade.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Facilidade de Escrita.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/avaliação/facilidade-de-escrita.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Legibilidade.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/avaliação/legibilidade.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Ortogonalidade.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/avaliação/ortogonalidade.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Projeto da Sintaxe.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/avaliação/projeto-da-sintaxe.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Simplicidade Geral.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/avaliação/simplicidade-geral.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Suporte a Abstração.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/avaliação/suporte-a-abstração.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Tipo de Dados.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/avaliação/tipo-de-dados.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Tratamentos de Exceção.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/avaliação/tratamentos-de-exceção.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Utilização de Apelidos.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/avaliação/utilização-de-apelidos.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Avaliação/Verificação de Tipos.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/avaliação/verificação-de-tipos.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Implementação/Compilação.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/implementação/compilação.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Implementação/Interpretação.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/implementação/interpretação.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Implementação/Métodos de Implementação de uma Linguagem.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 3030,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/implementação/métodos-de-implementação-de-uma-linguagem.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Implementação/Sistemas Híbridos.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/implementação/sistemas-híbridos.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Conceitos Preliminares/Conceitos Preliminares.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 146,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/conceitos-preliminares/conceitos-preliminares.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Escopo/Escopo Dinâmico.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/nvve/escopo/escopo-dinâmico.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Escopo/Escopo Estático.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/nvve/escopo/escopo-estático.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Escopo/Escopos.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 941,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/nvve/escopo/escopos.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Escopo/Local.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/nvve/escopo/local.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Escopo/Não Local.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/nvve/escopo/não-local.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Escopo/Visível.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/nvve/escopo/visível.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Nomes/Nomes.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 619,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/nvve/nomes/nomes.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Nomes/Palavras Especiais.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/nvve/nomes/palavras-especiais.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Nomes/Palavras Reservadas.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/nvve/nomes/palavras-reservadas.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Variaveis/Endereço.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/nvve/variaveis/endereço.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Variaveis/Escopo.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/nvve/variaveis/escopo.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Variaveis/Nome.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/nvve/variaveis/nome.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Variaveis/Tempo de Vida.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/nvve/variaveis/tempo-de-vida.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Variaveis/Tipo.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/nvve/variaveis/tipo.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Variaveis/Valor.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/nvve/variaveis/valor.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Variaveis/Variáveis.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 567,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/nvve/variaveis/variáveis.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Vinculação/Vinculação.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 2406,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/nvve/vinculação/vinculação.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Vinculação/Vinculação de Armazenamento.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/nvve/vinculação/vinculação-de-armazenamento.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Vinculação/Vinculação de Tipos.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/nvve/vinculação/vinculação-de-tipos.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/NVVE/Nomes, variáveis, vinculações e escopos.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 384,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/nvve/nomes,-variáveis,-vinculações-e-escopos.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Python/Contexto/Contextualização.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 442,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/python/contexto/contextualização.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Python/Contexto/Memória.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/python/contexto/memória.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Python/Garbage/Garbage Collector.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/python/garbage/garbage-collector.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Python/Memória e Objetos/Heap.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/python/memória-e-objetos/heap.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Python/Memória e Objetos/Objetos.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/python/memória-e-objetos/objetos.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Python/Memória e Objetos/Stack.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/python/memória-e-objetos/stack.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Python/Memória e Objetos/Stack, Heap e Objetos.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 976,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/python/memória-e-objetos/stack,-heap-e-objetos.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Python/Python - Memória e Garbage Collector.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 172,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/python/python-memória-e-garbage-collector.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/BNF/BNF.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 802,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/sintaxe/bnf/bnf.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/BNF/Linguagem.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/sintaxe/bnf/linguagem.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/BNF/Metalinguagem.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/sintaxe/bnf/metalinguagem.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/Definição/Definição e História.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 439,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/sintaxe/definição/definição-e-história.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/Definição/Semântica.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/sintaxe/definição/semântica.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/Definição/Sintaxe.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/sintaxe/definição/sintaxe.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/EBNF/Adição de Partes Opcionais.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/sintaxe/ebnf/adição-de-partes-opcionais.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/EBNF/EBNF.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 1224,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/sintaxe/ebnf/ebnf.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/EBNF/Repetições de Termos.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/sintaxe/ebnf/repetições-de-termos.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/EBNF/Uso de Múltiplas Opções.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/sintaxe/ebnf/uso-de-múltiplas-opções.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/Parse Trees/Ambiguidade.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/sintaxe/parse-trees/ambiguidade.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/Parse Trees/Árvore de Análise Sintática.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 2645,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/sintaxe/parse-trees/árvore-de-análise-sintática.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/Parse Trees/Associatividade de Operadores.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/sintaxe/parse-trees/associatividade-de-operadores.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/Parse Trees/Precedência de Operadores.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/sintaxe/parse-trees/precedência-de-operadores.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Sintaxe/Sintaxe.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 121,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/sintaxe/sintaxe.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Matrizes/Fatiamento.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/matrizes/fatiamento.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Matrizes/Inicialização.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/matrizes/inicialização.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Matrizes/Matriz Estática.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/matrizes/matriz-estática.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Matrizes/Matriz Heap-Dinâmica.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/matrizes/matriz-heap-dinâmica.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Matrizes/Matriz Heap-Dinâmica Fixa.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/matrizes/matriz-heap-dinâmica-fixa.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Matrizes/Matriz Pilha-Dinâmica.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/matrizes/matriz-pilha-dinâmica.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Matrizes/Matriz Pilha-Dinâmica Fixa.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/matrizes/matriz-pilha-dinâmica-fixa.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Matrizes/Matrizes.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 2526,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/matrizes/matrizes.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Matrizes/Matrizes Heterogêneas.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/matrizes/matrizes-heterogêneas.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Matrizes/Tipos Compostos.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/matrizes/tipos-compostos.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Matrizes/Tipos de Matrizes.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 159,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/matrizes/tipos-de-matrizes.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Ponteiros/Ponteiro Solto.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/ponteiros/ponteiro-solto.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Ponteiros/Ponteiros e Variáveis de Referência.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 1251,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/ponteiros/ponteiros-e-variáveis-de-referência.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Ponteiros/Problemas com Ponteiros.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 84,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/ponteiros/problemas-com-ponteiros.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Ponteiros/Variáveis de Referência.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/ponteiros/variáveis-de-referência.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Ponteiros/Variáveis Dinâmicas no Monte Perdidas.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/ponteiros/variáveis-dinâmicas-no-monte-perdidas.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Primitivos/Booleanos.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 12,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/primitivos/booleanos.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Primitivos/Caracteres.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 13,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/primitivos/caracteres.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Primitivos/Tipos Numéricos.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 19,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/primitivos/tipos-numéricos.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Primitivos/Tipos Primitivos.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 342,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/primitivos/tipos-primitivos.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Strings/Cadeia de Caracteres.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 1406,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/strings/cadeia-de-caracteres.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Strings/Descritor.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/strings/descritor.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Strings/Tamanho de Strings.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 105,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/strings/tamanho-de-strings.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Strings/Tamanho Dinâmico Ilimitado.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/strings/tamanho-dinâmico-ilimitado.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Strings/Tamanho Dinâmico Limitado.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/strings/tamanho-dinâmico-limitado.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Strings/Tamanho Estático.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/strings/tamanho-estático.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Registros.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 361,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/registros.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Tipos de Dados.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 231,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/tipos-de-dados.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/Tipos de Dados/Verificação de Tipos.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 590,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/tipos-de-dados/verificação-de-tipos.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV1/AV1.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 199,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av1/av1.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Java/Implementação/Método de Implementação.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 231,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/java/implementação/método-de-implementação.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Java/Memória/Memória.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 970,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/java/memória/memória.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Java/Orientação a Objetos/Orientação a Objetos.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 871,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/java/orientação-a-objetos/orientação-a-objetos.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Java/Sintaxe/Sintaxe.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 1121,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/java/sintaxe/sintaxe.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Java/Tipos/Tipos.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 1073,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/java/tipos/tipos.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Java/Linguagem Java.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 523,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/java/linguagem-java.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/LISP/Noções de LISP.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 940,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/lisp/noções-de-lisp.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Programação Funcional/Funções Matemáticas/Funções Matemáticas.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 1471,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/programação-funcional/funções-matemáticas/funções-matemáticas.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Programação Funcional/Programação Funcional/Programação Funcional.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 683,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/programação-funcional/programação-funcional/programação-funcional.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Programação Funcional/Paradigma de Programação Funcional.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 741,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/programação-funcional/paradigma-de-programação-funcional.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Prolog/Prolog.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 4181,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/prolog/prolog.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Scheme/Scheme.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 3119,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/scheme/scheme.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Subprogramas/Contextualização/Contextualização.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 1045,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/subprogramas/contextualização/contextualização.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Subprogramas/Fundamentos/Definições Básicas.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/subprogramas/fundamentos/definições-básicas.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Subprogramas/Fundamentos/Fundamentos de Subprogramas.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 3906,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/subprogramas/fundamentos/fundamentos-de-subprogramas.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Subprogramas/Fundamentos/Parâmetros.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/subprogramas/fundamentos/parâmetros.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Subprogramas/Fundamentos/Procedimentos e Funções.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/subprogramas/fundamentos/procedimentos-e-funções.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Subprogramas/Passagem de Parâmetros/Passagem de Parâmetros.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 3284,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/subprogramas/passagem-de-parâmetros/passagem-de-parâmetros.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Subprogramas/Questões de Projeto/Questões de Projeto para Subprogramas.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 263,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/subprogramas/questões-de-projeto/questões-de-projeto-para-subprogramas.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Subprogramas/Variáveis/Variáveis Definidas em Subprogramas.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 834,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/subprogramas/variáveis/variáveis-definidas-em-subprogramas.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Subprogramas/Subprogramas e Abstração de Processos.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 664,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/subprogramas/subprogramas-e-abstração-de-processos.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Abstração/Abstração.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 1017,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/tipos-abstratos/abstração/abstração.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Abstração/Abstração de Dados.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 23,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/tipos-abstratos/abstração/abstração-de-dados.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Abstração/Abstração de Processos.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/tipos-abstratos/abstração/abstração-de-processos.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Classes/Atributo.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/tipos-abstratos/classes/atributo.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Classes/Classe.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/tipos-abstratos/classes/classe.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Classes/Classes e Objetos.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 658,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/tipos-abstratos/classes/classes-e-objetos.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Classes/Método.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/tipos-abstratos/classes/método.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Classes/Objeto.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/tipos-abstratos/classes/objeto.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Herança/Classes Abstratas.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/tipos-abstratos/herança/classes-abstratas.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Herança/Herança.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 2125,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/tipos-abstratos/herança/herança.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Herança/Herança Múltipla.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/tipos-abstratos/herança/herança-múltipla.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Herança/Subclasse.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/tipos-abstratos/herança/subclasse.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Herança/Superclasse.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 0,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/tipos-abstratos/herança/superclasse.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Polimorfismo/Polimorfismo.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 23,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/tipos-abstratos/polimorfismo/polimorfismo.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/Tipos Abstratos/Tipos Abstratos de Dados e Orientação a Objetos.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 102,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/tipos-abstratos/tipos-abstratos-de-dados-e-orientação-a-objetos.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV2/AV2.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 823,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av2/av2.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/AV3/AV3.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 313,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/av3/av3.html",
+      "dependencies": []
+    },
+    "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO/Assuntos - Fundamentos de Linguagens de Programação.md": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 231,
+      "exportedPath": "fundamentos-de-linguagens-de-programação/assuntos-fundamentos-de-linguagens-de-programação.html",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 87159,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 17586,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 138258,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 41426,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 262,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1747267589274,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
